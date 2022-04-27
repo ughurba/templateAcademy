@@ -6,7 +6,6 @@
 
 .main-top{
     display: flex;
-   
     margin-left: 50px;
 }
 .main-text-left{
@@ -36,30 +35,19 @@
 }
 .paragraph{
     margin-top: 30px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
-.box-row-two{
-   
-}
-.box-row-one{
-
-}
 .main-border-right{
     display: flex;
     flex-wrap: wrap;
     margin-left: 50px;
-    margin-top: 50px;
-    
-    
+    margin-top: 50px;  
 }
 .box-one{
     border: 0.5px solid #d3d3d5;
     width: 284px;
     height: 199px;
-    
-   
-
 }
 .box-one-img{
     width: 119px;
@@ -75,16 +63,13 @@
     line-height: 0em;
     margin-top: 70px;
     margin-left: 13px;
-    color: #4a4a4a;
-    
+    color: #4a4a4a; 
 }
 .box-two{
    
     border: 1px solid #d3d3d5;;
     width: 284px;
-    height: 199px;
-  
-   
+    height: 199px; 
 }
 .box-two-img{
     width: 119px;
@@ -105,7 +90,6 @@
     border: 1px solid #d3d3d5;
     width: 284px;
     height: 199px;
-  
 }
 .box-tree-img{
     width: 119px;
@@ -126,13 +110,11 @@
     border: 1px solid #d3d3d5;;
     width: 284px;
     height: 199px;
-    
 }
 .box-four-img{
     width: 119px;
     height: 95px;
-    padding: 13px 20px!important;
-    
+    padding: 13px 20px!important; 
 }
 .box-four-text{
     font-family: "Visby CF", Sans-serif;
