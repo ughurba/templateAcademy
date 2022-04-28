@@ -127,3 +127,78 @@
     color: #4a4a4a;
 }
 /*Main bottom*/
+
+.main-bottom{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    padding-left: 80px;
+}
+
+.main-bottom-one-box{
+    display: flex;
+}
+
+.bottom-one-box-all{
+    margin-left: 60px;
+}
+.bottom-box-title{
+    color:#323232;
+    font-family: "Visby CF", Sans-serif;
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 1.33em;
+
+}
+.bottom-box-text{
+    color:#323232;
+    font-family: "Lato",Sans-serif;
+    line-height: 1.5em;
+    font-size: 16px;
+    margin-top: 22px;
+}
+.button{
+    margin-top: 20px;
+}
+.bottom-box-btn{
+    font-family: "Visby CF", Sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 1.33em;
+    text-decoration: none;
+    color: #4a4a4a;
+    
+}
+.bottom-box-btn:hover{
+    color: blueviolet;
+}
+.main-bottom-two-box{
+    display: flex;
+    margin-top: 90px;
+}
+
+.bottom-two-box-all{
+    margin-left: 60px;
+}
+
+.main-bottom-two-row{
+    margin-left: 180px;
+}
+.main-bottom-tree-box{
+    display: flex;
+}
+
+.bottom-tree-box-all{
+    margin-left: 60px;
+}
+
+.main-bottom-four-box{
+    display: flex;
+    margin-top: 90px;
+}
+
+.bottom-four-box-all{
+    margin-left: 60px;
+}
+
